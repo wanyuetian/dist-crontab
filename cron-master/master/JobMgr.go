@@ -7,7 +7,7 @@ import (
 
 	"go.etcd.io/etcd/mvcc/mvccpb"
 
-	"master/common"
+	"cron-master/common"
 
 	"go.etcd.io/etcd/clientv3"
 )

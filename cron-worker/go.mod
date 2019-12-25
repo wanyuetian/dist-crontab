@@ -1,4 +1,4 @@
-module master
+module cron-worker
 
 go 1.12
 

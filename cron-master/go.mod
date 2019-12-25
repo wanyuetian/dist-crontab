@@ -1,4 +1,4 @@
-module crontab/worker
+module cron-master
 
 go 1.12
 

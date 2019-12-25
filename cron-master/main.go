@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"time"
 
-	"master/master"
+	"cron-master/master"
 )
 
 func initEnv() {
@@ -14,7 +14,7 @@ func initEnv() {
 }
 
 func initArgs() {
-	flag.StringVar(&configFile, "config", "./master.json", "指定配置文件路径")
+	flag.StringVar(&configFile, "config", "./cron-master.json", "指定配置文件路径")
 }
 
 func init() {

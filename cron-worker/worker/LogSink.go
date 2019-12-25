@@ -2,7 +2,7 @@ package worker
 
 import (
 	"context"
-	"crontab/worker/common"
+	"cron-worker/common"
 	"fmt"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

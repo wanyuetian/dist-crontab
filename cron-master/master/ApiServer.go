@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"master/common"
+	"cron-master/common"
 )
 
 // APIServer 任务的HTTP接口

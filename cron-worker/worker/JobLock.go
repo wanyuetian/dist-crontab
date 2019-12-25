@@ -2,7 +2,7 @@ package worker
 
 import (
 	"context"
-	"crontab/worker/common"
+	"cron-worker/common"
 	"go.etcd.io/etcd/clientv3"
 )
 

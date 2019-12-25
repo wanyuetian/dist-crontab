@@ -1,7 +1,7 @@
 package worker
 
 import (
-	"crontab/worker/common"
+	"cron-worker/common"
 	"math/rand"
 	"os/exec"
 	"time"

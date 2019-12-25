@@ -2,7 +2,7 @@ package master
 
 import (
 	"context"
-	"master/common"
+	"cron-master/common"
 	"time"
 
 	"go.etcd.io/etcd/clientv3"

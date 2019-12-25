@@ -2,7 +2,7 @@ package master
 
 import (
 	"context"
-	"master/common"
+	"cron-master/common"
 	"time"
 
 	"go.mongodb.org/mongo-driver/mongo"
